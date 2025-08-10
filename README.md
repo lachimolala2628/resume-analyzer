@@ -27,34 +27,42 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/lachimolala2628/resume-analyzer.git
 npm install
-🛠️ Usage
+```
+
+
+## 🛠️ Usage
+
 To start the development server:
 
-bash
+```bash
 npm run dev
+```
+
 To build for production:
 
-bash
+```bash
 npm run build
+```
+
 To preview the production build locally:
 
-bash
+```bash
 npm run preview
-🧰 Tech Stack
-ReactJS
+```
 
-Vite
 
-React Router v7
+## 🧰 Tech Stack
 
-puter.js
+* **ReactJS**
+* **Vite**
+* **React Router v7**
+* **puter.js**
+* **TailwindCSS**
+* **Zustand**
+* **TypeScript**
 
-TailwindCSS
 
-Zustand
+## ✍️ Author
 
-TypeScript
-
-✍️ Author
-Ayush Kumar
-Creative Frontend Developer passionate about building fast, accessible, and user-focused web experiences.
+**Ayush Kumar**
+Frontend Developer passionate about turning complex ideas into clean, responsive, and user-friendly web experiences.
