@@ -27,21 +27,25 @@ Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/lachimolala2628/resume-analyzer.git
 npm install
-
 🛠️ Usage
 To start the development server:
 
 bash
+Copy
+Edit
 npm run dev
 To build for production:
 
 bash
+Copy
+Edit
 npm run build
 To preview the production build locally:
 
 bash
+Copy
+Edit
 npm run preview
-
 🧰 Tech Stack
 ReactJS
 
