@@ -28,8 +28,6 @@ Clone the repository and install dependencies:
 git clone https://github.com/lachimolala2628/resume-analyzer.git
 npm install
 
----
-
 🛠️ Usage
 To start the development server:
 
@@ -43,8 +41,6 @@ To preview the production build locally:
 
 bash
 npm run preview
-
----
 
 🧰 Tech Stack
 ReactJS
@@ -60,8 +56,6 @@ TailwindCSS
 Zustand
 
 TypeScript
-
----
 
 ✍️ Author
 Ayush Kumar
